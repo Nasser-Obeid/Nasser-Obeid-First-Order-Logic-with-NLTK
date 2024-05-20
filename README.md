@@ -1,0 +1,1 @@
+# Nasser-Obeid-First-Order-Logic-with-NLTK
